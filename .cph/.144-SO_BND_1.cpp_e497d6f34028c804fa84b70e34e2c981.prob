@@ -1,0 +1,1 @@
+{"name":"Local: 144-SO_BND_1","url":"d:\\NAM HAI_2022-2023\\KI II\\DSA_PTIT\\144-SO_BND_1.cpp","tests":[{"id":1682406211347,"input":"3\n10\n100\n99999999999999999","output":""},{"id":1682495911806,"input":"1\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\NAM HAI_2022-2023\\KI II\\DSA_PTIT\\144-SO_BND_1.cpp","group":"local","local":true}

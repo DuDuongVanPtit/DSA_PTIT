@@ -1,0 +1,1 @@
+{"name":"Local: 240-TRUNG_TO-HAU_TO","url":"d:\\NAM HAI_2022-2023\\KI II\\DSA_PTIT\\240-TRUNG_TO-HAU_TO.cpp","tests":[{"id":1682241286543,"input":"3\n(A+B)-C*(D/E)+F\n(A+(B+C)\n((A*B)+C)","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\NAM HAI_2022-2023\\KI II\\DSA_PTIT\\240-TRUNG_TO-HAU_TO.cpp","group":"local","local":true}

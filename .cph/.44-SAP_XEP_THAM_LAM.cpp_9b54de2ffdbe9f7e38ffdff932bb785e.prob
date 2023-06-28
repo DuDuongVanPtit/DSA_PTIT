@@ -1,0 +1,1 @@
+{"name":"Local: 44-SAP_XEP_THAM_LAM","url":"d:\\NAM HAI_2022-2023\\KI II\\DSA_PTIT\\44-SAP_XEP_THAM_LAM.cpp","tests":[{"id":1677492783390,"input":"2\n7\n1 6 3 4 5 2 7\n7\n1 6 3 4 5 7 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\NAM HAI_2022-2023\\KI II\\DSA_PTIT\\44-SAP_XEP_THAM_LAM.cpp","group":"local","local":true}

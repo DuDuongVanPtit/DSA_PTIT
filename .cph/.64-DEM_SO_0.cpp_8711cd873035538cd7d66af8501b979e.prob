@@ -1,0 +1,1 @@
+{"name":"Local: 64-DEM_SO_0","url":"d:\\NAM HAI_2022-2023\\KI II\\DSA_PTIT\\64-DEM_SO_0.cpp","tests":[{"id":1677867223760,"input":"3\n12\n0 0 0 0 0 0 0 0 0 1 1 1 \n5\n0 0 1 1 1\n6\n1 1 1 1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\NAM HAI_2022-2023\\KI II\\DSA_PTIT\\64-DEM_SO_0.cpp","group":"local","local":true}
